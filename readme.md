@@ -29,8 +29,6 @@
 
 - [Differences between SHA-384 and SHA-512](https://stackoverflow.com/questions/10061532/why-chose-sha512-over-sha384)
 - [github.com/w3c/webappsec — SRI: upgrade examples to sha384?](https://github.com/w3c/webappsec/issues/477)
-- [Everything you need to know about hash length extension attacks](https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks)
-
 
 ## Contribute
 
